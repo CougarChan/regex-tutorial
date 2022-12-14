@@ -48,10 +48,4 @@ Bracket Expression #3: `[a-z\.]`      - includes case sensitive characters from 
 
 In this example we have only used greedy quantifiers `+` and `{}`, meaning that it will allow the match to expand as long as it neess to go. If these quantifiers were lazy quantifiers, they would appear as `+?` or `{}?`, this will direct the system to make the shortest match.
 
-## Author
 
-My name is Allen Lovatt, and I finally feel like a coder! 
-
-Here is my github repository: https://github.com/alovatt83
-
-Here is my github repository: https://github.com/alovatt83
